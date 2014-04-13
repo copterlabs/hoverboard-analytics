@@ -1,7 +1,7 @@
-BootPress Google Analytics
-==========================
+Hoverboard Google Analytics
+===========================
 
-A plugin to add Google Analytics integration to BootPress sites.
+A plugin to add Google Analytics integration to Hoverboard sites.
 
 Copyright & License
 -------------------
