@@ -1,0 +1,7 @@
+<script type="text/javascript">
+jQuery(function($){
+    $('.wrap > h2')
+        .parent().prev()
+        .after('<div class="update-nag"><strong>Important:</strong> You are not currently tracking your site&rsquo;s traffic. Please <a href="{{setting_url}}">add your Google Analytics ID here.</a></div>');
+});
+</script>

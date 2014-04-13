@@ -1,0 +1,25 @@
+{
+  "name": "bootpress-analytics",
+  "version": "0.0.0",
+  "authors": [
+    "jlengstorf <jason.lengstorf@copterlabs.com>"
+  ],
+  "description": "A BootPress add-on to integrate Google Analytics.",
+  "main": "bootpress-analytics.php",
+  "keywords": [
+    "bootpress",
+    "bootstrap",
+    "wordpress",
+    "google",
+    "analytics"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/copterlabs/bootstrap-analytics",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
